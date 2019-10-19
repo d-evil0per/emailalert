@@ -1,0 +1,10 @@
+{
+    "mail":
+    {
+        "ORG_EMAIL":"@example.com",
+        "FROM_EMAIL":"abc.123",
+        "FROM_PWD":"password",
+        "SMTP_SERVER":"mail.example.com",
+        "SMTP_PORT":"993"
+    }
+}
