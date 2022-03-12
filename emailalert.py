@@ -4,9 +4,10 @@ import getpass
 import json
 from gtts import gTTS
 import playsound
+import os
 
 def banner():
-    os.system("clear")
+    os.system("cls")
     print("\n")
     print('███████╗███╗   ███╗ █████╗ ██╗██╗      █████╗ ██╗     ███████╗██████╗ ████████╗')
     print('██╔════╝████╗ ████║██╔══██╗██║██║     ██╔══██╗██║     ██╔════╝██╔══██╗╚══██╔══╝')
